@@ -1,0 +1,26 @@
+set nocompatible 
+set number 
+set cursorline
+set autoindent
+set smartindent 
+set showmatch
+set matchtime=2
+set ruler
+set laststatus=2
+set incsearch
+set tabstop=2 
+set shiftwidth=2
+set softtabstop=2
+set cindent 
+set nobackup
+set shortmess=atI
+syntax on
+set syntax=ruby
+set background=dark
+colorscheme molokai 
+set confirm
+set ignorecase
+set guifont=Monospace
+filetype plugin indent on
+set fileencoding=utf-8
+set t_Co=256
